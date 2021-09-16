@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    La La La
+La La La
 
 La La La
 
